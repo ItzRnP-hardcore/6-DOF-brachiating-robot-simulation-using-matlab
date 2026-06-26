@@ -140,4 +140,5 @@ DOCUMENTATION.md           ← full technical documentation
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+Apache License
+
